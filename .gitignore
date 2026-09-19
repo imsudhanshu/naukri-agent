@@ -13,3 +13,5 @@ jobs/
 
 .env
 .DS_Store
+*.tgz
+scripts/
