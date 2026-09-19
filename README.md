@@ -8,6 +8,9 @@ Your Naukri credentials are never provided to the CLI.
 
 ---
 
+[![npm version](https://img.shields.io/npm/v/naukri-agent.svg)](https://www.npmjs.com/package/naukri-agent)
+[![npm downloads](https://img.shields.io/npm/dm/naukri-agent.svg)](https://www.npmjs.com/package/naukri-agent)
+
 ## ✨ Features
 
 - Update your Naukri resume from the command line
