@@ -1,0 +1,15 @@
+node_modules/
+
+chrome-profile/
+browser-data/
+
+resume/*
+!resume/.gitkeep
+
+logs/
+screenshots/
+inspections/
+jobs/
+
+.env
+.DS_Store

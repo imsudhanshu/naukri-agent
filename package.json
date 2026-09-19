@@ -1,0 +1,25 @@
+{
+  "name": "naukri-agent",
+  "version": "1.0.0",
+  "description": "A local CLI for automatically updating your Naukri resume using an authenticated Chrome session",
+  "main": "src/cli.js",
+  "bin": {
+    "naukri-agent": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
+  },
+  "keywords": "[\"naukri\",\"resume\",\"job-search\",\"automation\",\"playwright\",\"cli\"]",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
